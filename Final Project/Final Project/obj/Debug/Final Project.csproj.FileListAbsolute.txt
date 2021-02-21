@@ -1,0 +1,49 @@
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\bin\Debug\Final Project.exe.config
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\bin\Debug\Final Project.exe
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\bin\Debug\Final Project.pdb
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\Final Project.exe
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\Final Project.pdb
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\bin\Debug\Interop.WMPLib.dll
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\bin\Debug\AxInterop.WMPLib.dll
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\Interop.WMPLib.dll
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\AxInterop.WMPLib.dll
+E:\Grade 10 Computer\Unit 3\Final Project\Final Project\obj\Debug\Final Project.csproj.ResolveComReference.cache
+G:\G10\Final Project\Final Project\bin\Debug\Final Project.exe.config
+G:\G10\Final Project\Final Project\obj\Debug\Interop.WMPLib.dll
+G:\G10\Final Project\Final Project\obj\Debug\AxInterop.WMPLib.dll
+G:\G10\Final Project\Final Project\obj\Debug\Final Project.csproj.ResolveComReference.cache
+G:\G10\Final Project\Final Project\obj\Debug\Final Project.exe
+G:\G10\Final Project\Final Project\obj\Debug\Final Project.pdb
+G:\G10\Final Project\Final Project\bin\Debug\Final Project.exe
+G:\G10\Final Project\Final Project\bin\Debug\Final Project.pdb
+G:\G10\Final Project\Final Project\bin\Debug\Interop.WMPLib.dll
+G:\G10\Final Project\Final Project\bin\Debug\AxInterop.WMPLib.dll
+G:\G10\Final Project\Final Project\obj\Debug\Final Project.csprojResolveAssemblyReference.cache
+G:\G10\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+G:\G10\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+G:\G10\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.Cache
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\bin\Debug\Final Project.exe.config
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\bin\Debug\Final Project.exe
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\bin\Debug\Final Project.pdb
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\bin\Debug\Interop.WMPLib.dll
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Final Project.csproj.ResolveComReference.cache
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Final_Project.Form1.resources
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Final_Project.Properties.Resources.resources
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Final Project.csproj.GenerateResource.cache
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Final Project.csproj.CoreCompileInputs.cache
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Jacky\Desktop\Grade 11\Italian Tiny Cars\G10\Final Project\Final Project\obj\Debug\Final Project.pdb
+C:\Users\Jason\Desktop\HomeWork\Final Project Grade 9\Final Project\Final Project\obj\Debug\Final Project.csprojAssemblyReference.cache
+C:\Users\Jason\Desktop\HomeWork\Final Project Grade 9\Final Project\Final Project\obj\Debug\Interop.WMPLib.dll
+C:\Users\Jason\Desktop\HomeWork\Final Project Grade 9\Final Project\Final Project\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\Jason\Desktop\HomeWork\Final Project Grade 9\Final Project\Final Project\obj\Debug\Final Project.csproj.ResolveComReference.cache
+C:\Users\Jason\Desktop\HomeWork\Final Project Grade 9\Final Project\Final Project\obj\Debug\Final Project.exe
+C:\Users\Jason\Desktop\HomeWork\Final Project Grade 9\Final Project\Final Project\obj\Debug\Final Project.pdb

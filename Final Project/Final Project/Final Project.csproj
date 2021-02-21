@@ -1,0 +1,259 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{6850144E-B51B-4245-9BA9-CB0D04D14EE0}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Final_Project</RootNamespace>
+    <AssemblyName>Final Project</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Location.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Test.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Background.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Platform1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Platform2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleLeftFrame11.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleLeftFrame1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleLeftFrame2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleLeftFrame3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleLeftFrame4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleRightFrame1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleRightFrame2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleRightFrame3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\EnemyIdleRightFrame4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProjectileFrame1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProjectileFrame3 copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\ProjectileFrame2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player Right Walk Frame 1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player Right Walk Frame 2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Player Right Walk Frame 3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerLeftWalkFrame1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerLeftWalkFrame2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerLeftWalkFrame3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerRightWalkFrame1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerRightWalkFrame2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerRightWalkFrame3.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerLeftIdleFrame1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerLeftIdleFrame2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerRightIdleFrame1.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\PlayerRightIdleFrame2.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Sword.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SwordLeft.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\SwordRight.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Health bars.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealthBar1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealthBar2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealthBar3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealthBar4.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\HealthBar5.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WinScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartButtonBackground.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxWMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="WMPLib">
+      <Guid>{6BF52A50-394A-11D3-B153-00C04F79FAA6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\myMusicWav.wav" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\WinScreen.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoseScreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\LoseScreen.JPG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\StartButtonBackground.PNG" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoomerangFrame1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoomerangFrame2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoomerangFrame3.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\BoomerangFrame4.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
